@@ -1,0 +1,21 @@
+# Ambiente Virtual
+venv/
+env/
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Django
+db.sqlite3
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
